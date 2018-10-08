@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/wramsey85/First%20pipeline/_apis/build/status/willramsey.pipelines-javascript)](https://dev.azure.com/wramsey85/First%20pipeline/_build/latest?definitionId=2)
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
